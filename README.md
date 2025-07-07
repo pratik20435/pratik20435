@@ -1,5 +1,38 @@
-# 💫 About Me:
- Pratik (pratik20435)<br>A passionate full‑stack developer exploring the world of web applications and inventory systems. Your GitHub features six repositories showcasing skills in:<br><br>MERN‑stack: A project built with MongoDB, Express, React & Node.js—a solid introduction to full‑stack development <br>github.com<br>+1<br>github.com<br>+1<br><br>Todo‑app: A JavaScript task manager, perfect for honing frontend interactivity and state management <br>github.com<br>+2<br>github.com<br>+2<br>github.com<br>+2<br><br>Inventory management suite: A robust TypeScript/Vite/React tool with backend APIs—demonstrating strong full‑stack architecture<br><br>Backend services: Several JavaScript modules powering the inventory app, emphasizing modular design and API integration<br><br>🌱 What drives you:<br>Building and iterating full‑stack projects that showcase both frontend finesse and backend reliability.<br><br>Embracing modern tools like React, TypeScript, Vite, and Node.js.<br><br>Continuously expanding your skill set through project-based learning.<br><br>✨ Suggested About‑Me blurb:<br>“Hi, I’m Pratik, a full‑stack enthusiast who loves crafting web apps and APIs. I work with React, TypeScript, Node, and MongoDB—building everything from to‑do lists to inventory management systems. I’m always learning, experimenting, and ready to collaborate!”<br><br>
+# 👋 Hi, I'm Pratik
+
+I'm a passionate **Full‑Stack Developer** who loves building practical, real-world web applications. From dynamic frontends to powerful backend APIs, I thrive on turning ideas into working solutions.
+
+---
+
+## 🔧 Tech Stack
+
+- **Frontend:** React, Vite, TypeScript, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express, MongoDB
+- **Tools & Practices:** REST APIs, Git, GitHub, Modular Design
+
+---
+
+## 📂 Featured Projects
+
+- **[MERN Stack App](https://github.com/pratik20435/mern-stack)**  
+  A full-stack application using MongoDB, Express, React, and Node.js. A great showcase of integrating frontend and backend.
+
+- **[To-Do App](https://github.com/pratik20435/todo)**  
+  A simple and effective task management app demonstrating JavaScript interactivity and user-focused UI.
+
+- **Inventory Management System**  
+  Built with TypeScript, Vite, and React — designed for performance and clean architecture. Includes a modular backend API (private/public repo depending on status).
+
+---
+
+## 🌱 About Me
+
+> “I love building intuitive and scalable web apps. Whether it’s organizing tasks or managing inventory, I enjoy solving problems with clean code and smart design. I’m always learning, building, and looking to collaborate!”
+
+---
+
+📫 **Let’s connect or collaborate:** [github.com/pratik20435](https://github.com/pratik20435)
+
 
 
 ## 🌐 Socials:
