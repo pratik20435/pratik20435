@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pratik
+# 👋 Hi, I'm Pratik Devkota
 
 I'm a passionate **Full‑Stack Developer** who loves building practical, real-world web applications. From dynamic frontends to powerful backend APIs, I thrive on turning ideas into working solutions.
 
